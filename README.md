@@ -1,4 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/KsHSEX27)
 ## Examen de Desarrollo Backend con Express
+Jorge Esteban Diaz Bernal
+
+(Informacion Presentacion al final)
 
 ### Instrucciones Generales
 - El examen consta de tres partes, cada una correspondiente a una ruta de una API REST desarrollada con Express, todas deben desarrollarse dentro de la misma aplicación.
@@ -58,3 +62,18 @@ Lista de nombres de la clase:
 | TAMAYO LOPEZ, MARIA FERNANDA |
 | URREA LARA, DEIVID NICOLAS   |
 | AZCONA, ANDRÉS                |
+
+
+## PRESENTACION EXAMEN PARCIAL
+Observaciones: Para desplegar haciendo uso de Vercel se realizo una copia de este repositorio que cuenta con todo el funcionamiento del proyecto, se ha enviado una solicitud de acceso directo a este al usuario de GitHub del Docente.
+
+LINK DESPLIEGUE: https://parcial-segundo-corte-jor-est-di-be.vercel.app/
+
+Imagenes Funcionamiento
+En el Proyecto se pueden evidenciar tres carpetas con imagenes, donde se puede visualizar el funcionamiento general y las pruebas con Postman y ThunderClient.
+[Funcionamiento General](./Imagenes%20Funcionamiento/GENERAL).
+[Pruebas ThunderCLient](./Imagenes%20Funcionamiento/THUNDERCLIENT).
+[Pruebas Postman](./Imagenes%20Funcionamiento/POSTMAN).
+
+![Repositorio de Publicacion](./Repositorio%20Publicacion/Imagen%20del%20Repositorio%20de%20publicacion.jpeg)
+![Invitacion Colaborador](./Repositorio%20Publicacion/Colaborador.jpeg)
