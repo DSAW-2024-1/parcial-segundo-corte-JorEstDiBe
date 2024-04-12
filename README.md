@@ -74,3 +74,6 @@ En el Proyecto se pueden evidenciar tres carpetas con imagenes, donde se puede v
 [Funcionamiento General](./Imagenes%20Funcionamiento/GENERAL).
 [Pruebas ThunderCLient](./Imagenes%20Funcionamiento/THUNDERCLIENT).
 [Pruebas Postman](./Imagenes%20Funcionamiento/POSTMAN).
+
+![Repositorio de Publicacion](./Repositorio%20Publicacion/Imagen%20del%20Repositorio%20de%20publicacion.jpeg)
+![Invitacion Colaborador](./Repositorio%20Publicacion/Colaborador.jpeg)
